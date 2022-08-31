@@ -2,6 +2,7 @@ package com;
 
 import com.service.DemoWebServiceImpl;
 
+import javax.xml.namespace.QName;
 import javax.xml.ws.Endpoint;
 
 public class DemoWebServicePublisher {
